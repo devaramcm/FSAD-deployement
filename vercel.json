@@ -6,7 +6,6 @@
     },
     "backend": {
       "routePrefix": "/api",
-      "src": "backend",
       "framework": "express"
     }
   }
